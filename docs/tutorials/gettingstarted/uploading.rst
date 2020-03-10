@@ -42,7 +42,7 @@ setting from ``helloworld`` to your registered application ID.
 Uploading the Application
 -------------------------
 To upload your finished application to Google App Engine, run the following
-command::
+command:
 
 .. code-block:: text
 
@@ -54,10 +54,7 @@ Enter your Google username and password at the prompts.
 
 You can now see your application running on App Engine. If you set up a free
 appspot.com domain name, the URL for your website begins with your application
-ID::
-
-.. code-block:: text
-
+ID:
    http://application-id.appspot.com
 
 
